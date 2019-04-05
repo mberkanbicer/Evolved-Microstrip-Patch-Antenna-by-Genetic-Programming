@@ -7,6 +7,5 @@ need to be inexpensive, efficient, and robust for the installation environment. 
 only find the best solution among pre-defined shapes of antenna . As another approach which can overcome
 these limitations is building an evolutionary software that can find out the effective design solution that would
 originally not be found and has capable of solving the need of conformal and multiband in restricted area.
-Therefore, this work places emphasis on new approach to automatically design the antennas and describe an
-example of innovative microstrip patch antenna (MPA) created using this technology that operates at 3.5 GHz as
+Therefore, this work places emphasis on new approach which uses machine learning technique to automatically design the antennas and describe an example of innovative microstrip patch antenna (MPA) created using this technology that operates at 3.5 GHz as
 an ideal and suggested bandwidth of 5G technology
