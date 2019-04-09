@@ -13,5 +13,5 @@ Therefore, this work places emphasis on new approach which uses machine learning
 
 <a href="url"><img src="https://github.com/thuan0311/Evolved-Microstrip-Patch-Antenna-by-Genetic-Programming/blob/master/other/tree.PNG" align="center" height="250" wight="250"></a>
 
-<a href="url"><img src="https://github.com/thuan0311/Evolved-Microstrip-Patch-Antenna-by-Genetic-Programming/blob/master/other/antenna.png" align="center" height="250" wight="250"></a>
+<a href="url"><img src="https://github.com/thuan0311/Evolved-Microstrip-Patch-Antenna-by-Genetic-Programming/blob/master/other/antenna.png" align="center" height="200" wight="200"></a>
 
