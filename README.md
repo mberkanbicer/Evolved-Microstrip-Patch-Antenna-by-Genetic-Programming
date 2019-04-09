@@ -18,5 +18,3 @@ Therefore, this work places emphasis on new approach which uses machine learning
 # The antenna model found by softwar, operate at 3.5 Ghz and has 16x16mm of the size
 <a href="url"><img src="https://github.com/thuan0311/Evolved-Microstrip-Patch-Antenna-by-Genetic-Programming/blob/master/other/antenna.png" align="center" height="200" wight="200"></a>
 
-
-
