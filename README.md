@@ -11,7 +11,9 @@ Therefore, this work places emphasis on new approach which uses machine learning
 
 
 <a style="position:relative" href="url"><img src="https://github.com/thuan0311/Evolved-Microstrip-Patch-Antenna-by-Genetic-Programming/blob/master/other/flowchart.png" align="center" height="250" wight="250"></a>
+<center>
 Flow chart of GP software
+  <center>
 
 
 
