@@ -9,6 +9,6 @@ these limitations is building an evolutionary software that can find out the eff
 originally not be found and has capable of solving the need of conformal and multiband in restricted area.
 Therefore, this work places emphasis on new approach which uses machine learning technique (genetic programming) to automatically design the antennas and describe an example of innovative microstrip patch antenna (MPA) created using this technology that operates at 3.5 GHz as an ideal and suggested bandwidth of 5G technology
 
-![](https://github.com/thuan0311/Evolved-Microstrip-Patch-Antenna-by-Genetic-Programming/blob/master/other/tree.PNG)
+![](https://github.com/thuan0311/Evolved-Microstrip-Patch-Antenna-by-Genetic-Programming/blob/master/other/tree.PNG = 250x250)
 ![](https://github.com/thuan0311/Evolved-Microstrip-Patch-Antenna-by-Genetic-Programming/blob/master/other/antenna.png)
 ![](https://github.com/thuan0311/Evolved-Microstrip-Patch-Antenna-by-Genetic-Programming/blob/master/other/flowchart.png)
