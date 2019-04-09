@@ -12,9 +12,9 @@ Therefore, this work places emphasis on new approach which uses machine learning
 # Flow chart of GP software
 <a style="position:relative, left:30px" href="url"><img src="https://github.com/thuan0311/Evolved-Microstrip-Patch-Antenna-by-Genetic-Programming/blob/master/other/flowchart.png" align="center" height="250" wight="250"></a>
 
-# The tree program that represent for the antenna model below
+# The tree program that represents for the antenna model below
 <a href="url"><img src="https://github.com/thuan0311/Evolved-Microstrip-Patch-Antenna-by-Genetic-Programming/blob/master/other/tree.PNG" align="center" height="250" wight="250"></a>
 
-# The antenna model found by softwar, operate at 3.5 Ghz and has 16x16mm of the size
+# The antenna model found by the softwar operate at 3.5 Ghz and has 16x16mm of the size
 <a href="url"><img src="https://github.com/thuan0311/Evolved-Microstrip-Patch-Antenna-by-Genetic-Programming/blob/master/other/antenna.png" align="center" height="200" wight="200"></a>
 
