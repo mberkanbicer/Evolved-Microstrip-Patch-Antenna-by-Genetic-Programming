@@ -1,4 +1,3 @@
-# linh.homanh@hust.edu.vn - 2018
 # bachthuan03111997@gmail.com - 2018
 import GP as gp 
 import initGlobal as init
