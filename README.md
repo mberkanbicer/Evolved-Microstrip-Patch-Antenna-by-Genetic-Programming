@@ -1,4 +1,4 @@
-# Evolved-Design-Of-Microstrip-Patch-Antenna-by-Genetic-Programming - code author: thuan.bb.hust@gmail.com
+# Evolved-Design-Of-Microstrip-Patch-Antenna-by-Genetic-Programming - Author: thuan.bb.hust@gmail.com
 
 Current methods of designing and optimizing antennas by hand are time, effortful, limit complexity and require
 significant professionalism and experience. With this approach, an antenna engineer will select specific class of
