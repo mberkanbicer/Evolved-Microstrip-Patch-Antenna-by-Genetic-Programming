@@ -11,6 +11,7 @@
 # -----------
 # fid         - file identifier of the VBScript File.
 # -------------------------------------------------------------------------- #
+# thuan.bb.hust@gmail.com
 def hfssNewProject(fid):
 
 # Preamble.
