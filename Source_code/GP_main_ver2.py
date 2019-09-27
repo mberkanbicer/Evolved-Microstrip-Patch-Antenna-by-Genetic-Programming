@@ -1,4 +1,3 @@
-# linh.homanh@hust.edu.vn - 2018
 # bachthuan03111997@gmail.com - 2018
 import GPoperators as op 
 import initGlobal as init
