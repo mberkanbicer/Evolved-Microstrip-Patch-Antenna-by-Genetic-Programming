@@ -20,7 +20,7 @@
 ##                                      17   getChrom(ind)                                                  ##
 ##                                      18   insert_chrom(tree,chromosome,subtree_chrom,IDlist)             ##
 ##############################################################################################################
-# linh.homanh@hust.edu.vn - 2018
+
 # bachthuan03111997@gmail.com - 2018
 import matplotlib.pyplot as plt 
 import matplotlib.lines as ln 
