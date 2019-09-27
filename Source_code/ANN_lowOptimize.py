@@ -1,4 +1,4 @@
-#thuan.bb.hust@gmail.com
+#thuan.bb.hust@gmail.com 2018
 import Helper as hp 
 import initGlobal as init
 import numpy as np
