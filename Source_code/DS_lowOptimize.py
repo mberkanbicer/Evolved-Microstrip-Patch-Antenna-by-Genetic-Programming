@@ -1,3 +1,4 @@
+# thuan.bb.hust@gmail.com 2018
 import Helper as hp 
 
 import numpy as np
