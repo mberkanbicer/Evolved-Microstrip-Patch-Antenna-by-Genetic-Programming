@@ -1,3 +1,4 @@
+#thuan.bb.hust@gmail.com
 import Helper as hp 
 import initGlobal as init
 import numpy as np
